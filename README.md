@@ -2,6 +2,14 @@
 
 > A Vue.js project
 
+## Usage
+```sh
+$ npm install http-server -g
+$ cd dist/
+$ http-server
+```
+open http://localhost:8080/
+
 ## Build Setup
 
 ``` bash
